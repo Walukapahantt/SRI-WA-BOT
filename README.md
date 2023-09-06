@@ -2,10 +2,13 @@
 
 ```js
 
-global.Owner = ["916297175943"];
-global.OwnerNumber = ["916297175943"];
-global.ownertag = ["916297175943"];
-global.OwnerName = "Kai";
-global.BotName = "A17";
+npm i whatsapp-web.js
 
 ```
+
+```js
+
+npm i qrcode-terminal
+
+```
+
